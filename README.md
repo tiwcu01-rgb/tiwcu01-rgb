@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
-<h3 align="center">Desarrollador Backend/Fullstack | PHP · Laravel · React · DevOps</h3>
+<h1 align="center">Hola, soy Williams 👋</h1>
+<h3 align="center">Desarrollador Backend/Frontend | PHP · Laravel · React · DevOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario">
@@ -17,10 +17,10 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo en **[proyecto o empresa actual]**
-- 🌱 Aprendiendo **[algo que estés aprendiendo, ej. Kubernetes, Terraform]**
+- 🔭 Actualmente trabajo en **CreceConsultores**
+- 🌱 Aprendiendo **FullStack**
 - 💬 Pregúntame sobre **Laravel, PHP, arquitectura de APIs, Docker o AWS**
-- ⚡ Dato curioso: **[algo personal o divertido]**
+- ⚡ Dato curioso: **¿Es mejor ser temido o respetado? Yo digo, ¿es mucho pedir ambos?**
 
 ---
 
@@ -65,26 +65,23 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tiwcu01-rgb&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwcu01-rgb&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwcu01-rgb&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🚀 Proyectos destacados
 
-- **[Nombre del proyecto 1](https://github.com/tu-usuario/proyecto1)** — breve descripción (ej. API REST en Laravel con autenticación JWT y Docker).
-- **[Nombre del proyecto 2](https://github.com/tu-usuario/proyecto2)** — breve descripción (ej. Dashboard en React + Laravel consumiendo AWS S3).
-- **[Nombre del proyecto 3](https://github.com/tu-usuario/proyecto3)** — breve descripción.
+- **[Requisiciones GlobalMed](https://script.google.com/macros/s/AKfycbxR1nsU4zjZIT7xey3F3ygKoqTeDk8dUaCC-t7TUznCABk-ehSBTFZh5rk7yeriBUpr/exec)** — Aprovechando Google Scripts y Sacandole el provecho a entidad relacion.
 
-> 💡 Tip: fija (pin) estos repos desde tu perfil de GitHub (`Customize your pins`) para que aparezcan como tarjetas destacadas debajo de esta sección automáticamente.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=tiwcu01-rgb&style=flat-square&color=blue" />
 </p>
